@@ -1,0 +1,7 @@
+{
+    "java.project.explorer.showNonJavaResources": false,
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "src/Resources/mysql-connector-java-5.1.24-bin.jar"
+    ]
+}
